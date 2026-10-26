@@ -8,3 +8,5 @@ PyQt6 (Renderizado de la interfaz gráfica)
 pyserial (Comunicación con el controlador robótico)
 
 numpy (Operaciones matriciales y cálculo de homografías)
+
+Para abrir el programa se tiene que ejecutar el codio GUI_inspeccion_f.py
